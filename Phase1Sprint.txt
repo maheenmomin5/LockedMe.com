@@ -1,0 +1,26 @@
+Project: LockedMe.com
+Developer: Maheen Momin
+-------------------------------
+Duration: 3 weeks
+Type: Scrum
+Sprint Duration: 1 week
+
+-------------------------------
+Sprint 1:
+	- Build Welcome Screen
+	- Add app name and developer details 
+	- Show Main Menu
+	- Show options in Main Menu
+	- Add Option 1 in main Menu (Show File in ascending order)
+	- Support closing the application
+
+Sprint 2:
+	- Show options 2 (File Operations)
+	- Show File Operations Menu
+	- Add option 1 in file operations (Add a File)
+	- Add option 2 in file operations (Delete a File)
+
+Sprint 3: (keeping it light to account for unknowns)
+	- Search a File 
+	- Back to Main Menu 
+	- Unknowns 
